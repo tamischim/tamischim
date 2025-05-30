@@ -1,7 +1,7 @@
 ## Hey, I'm Tamires Schimeneck! 🌝
  
 - 🔭 I’m currently learning C Language;
-- 🛰️ Fun fact: I'm really interested in astrophysics, 🧬bioinformatics and ⚛️quantum computing;
+- Fun fact: I'm really interested in 🛰️astrophysics, 🧬bioinformatics and ⚛️quantum computing;
 - 📧 How to reach me: tschimeneck@gmail.com.
 
 <a href="https://github.com/tamischim/github-readme-stats">
