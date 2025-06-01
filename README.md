@@ -1,6 +1,6 @@
 ## Hey, I'm Tamires Schimeneck! 🌝
  
-- 🔭 I’m currently learning C Language;
+- 🔭 I’m currently learning C;
 - Fun fact: I'm really interested in 🛰️astrophysics, 🧬bioinformatics and ⚛️quantum computing;
 - 📧 How to reach me: tschimeneck@gmail.com.
 
