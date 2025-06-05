@@ -97,7 +97,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=tamischim&show_icons=true&rank_icon=github&theme=dracula&bg_color=DEG,06033B,F0A6DA&locale=pt-br" 
   />
@@ -105,7 +105,7 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="100" 
+      height="80" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamischim&hide_progress=true&theme=dracula&bg_color=DEG,06033B,F0A6DA&locale=pt-br" 
   />
 
