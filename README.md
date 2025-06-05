@@ -1,6 +1,6 @@
 ## Olá, me chamo Tamires Schimeneck! 🌝
 **`Desenvolvedora Backend`**
- 
+
 - 🔭 Atualmente estudando C++;
 - Tenho interesse por 🛰️astrofísica, 🧬bioinformática e ⚛️computação quântica;
 - 📧 Contato: tschimeneck@gmail.com.
@@ -123,7 +123,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamischim&hide_progress=true&theme=dracula&bg_color=DEG,06033B,F0A6DA&locale=pt-br" 
   />
 
-  <img 
+   <img 
     align="right" 
     alt="Tami"
     title="Olá!" 
