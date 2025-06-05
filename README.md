@@ -101,14 +101,6 @@
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" 
 />
-<img 
-    align="right" 
-    alt="Tami"
-    title="Olá!" 
-    width="100px" 
-    style="padding-right: 10px;" 
-    src="https://media.discordapp.net/attachments/1373461587314348166/1373677194739716156/tami.gif?ex=682b4814&is=6829f694&hm=64db7b77571f457efd0d482b3b0283a92ede238111e122d81d25ea6d478dd03e&=" 
-/>
 
 <br/>
 <br/>
@@ -130,5 +122,14 @@
       height="80" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamischim&hide_progress=true&theme=dracula&bg_color=DEG,06033B,F0A6DA&locale=pt-br" 
   />
+
+  <img 
+    align="right" 
+    alt="Tami"
+    title="Olá!" 
+    width="100px" 
+    style="padding-right: 10px;" 
+    src="https://media.discordapp.net/attachments/1373461587314348166/1373677194739716156/tami.gif?ex=682b4814&is=6829f694&hm=64db7b77571f457efd0d482b3b0283a92ede238111e122d81d25ea6d478dd03e&=" 
+/>
 
 </p>
