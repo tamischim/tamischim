@@ -55,6 +55,22 @@
 />
 <img 
     align="left" 
+    alt="Postman"
+    title="Postman" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Banco H2"
+    title="Banco H2" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://media.discordapp.net/attachments/1373461587314348166/1380269769697001713/images-removebg-preview.png?ex=684343e5&is=6841f265&hm=899108d8bdd475e7dd4afafe7c65af9c32bfdcee60acea82b4d99189b5df3aab&=&format=webp&quality=lossless" 
+/>
+<img 
+    align="left" 
     alt="Python"
     title="Python" 
     width="30px" 
@@ -67,7 +83,7 @@
     title="Perl" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" 
+    src="https://media.discordapp.net/attachments/1373461587314348166/1380268411015397446/imagem_2025-06-05_162011399-removebg-preview.png?ex=684342a1&is=6841f121&hm=6628f800c62ab6e785f90fd86716ba4f80d68cec51907898f8029f47c3872006&=&format=webp&quality=lossless" 
 />
 <img 
     align="left" 
